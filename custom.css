@@ -18,7 +18,7 @@ h1 {
 
 
 /*************************
-         TOP 
+         TOP
 **************************/
 
 #top {
@@ -34,17 +34,17 @@ h1 {
 
 
 /*************************
-         NAVBAR 
+         NAVBAR
 **************************/
 
-#header {
+#dicks {
   opacity:.9;
 }
 
 
 
 /*************************
-         CAROUSEL 
+         CAROUSEL
 **************************/
 
 .carousel {
@@ -54,7 +54,7 @@ h1 {
 
 
 /*************************
-         ABOUT 
+         ABOUT
 **************************/
 
 #about {
@@ -67,7 +67,7 @@ h1 {
 
 
 /*************************
-         ORDER 
+         ORDER
 **************************/
 
 #order {
@@ -79,7 +79,7 @@ h1 {
 
 
 /*************************
-         GALLERY 
+         GALLERY
 **************************/
 
 #gallery {
@@ -106,7 +106,7 @@ h1 {
 
 
 /*************************
-    LIGHTBOX OVERLAY 
+    LIGHTBOX OVERLAY
 **************************/
 
 #overlay {
@@ -148,77 +148,74 @@ h1 {
 **************************/
 
 @media only screen and (min-device-width:320px) and (max-device-width:501px) {
-  
+
   #gallery img {
   height:100px;
   width:100px;
   }
-  
+
 }
 
 @media only screen and (min-device-width:1560px) and (max-device-width:1660px) {
-  
+
   #gallery {
   margin-left:150px;
   }
-  
+
 }
 
 @media only screen and (min-device-width:1660px) and (max-device-width:1770px) {
-  
+
   #gallery {
   margin-left:200px;
   }
-  
+
 }
 
 @media only screen and (min-device-width:1770px) and (max-device-width:1850px) {
-  
+
   #gallery {
   margin-left:250px;
   }
-  
+
 }
 
 @media only screen and (min-device-width:1850px) and (max-device-width:2000px) {
-  
+
   #gallery {
   margin-left:320px;
   }
-  
+
 }
 
 @media only screen and (min-device-width:2000px) and (max-device-width:2250px) {
-  
+
   #gallery {
   margin-left:380px;
   }
-  
+
 }
 
 @media only screen and (min-device-width:2250px) and (max-device-width:2400px) {
-  
+
   #gallery {
   margin-left:450px;
   }
-  
+
 }
 
 @media only screen and (min-device-width:2400px) and (max-device-width:2500px) {
-  
+
   #gallery {
   margin-left:550px;
   }
-  
+
 }
 
 @media only screen and (min-device-width:2500px) and (max-device-width:3000px) {
-  
+
   #gallery {
   margin-left:630px;
   }
-  
+
 }
-
-
-
