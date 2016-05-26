@@ -11,7 +11,7 @@ h1 {
   font-family: 'Pacifico', cursive;
 }
 
-#bran {
+#logo {
   font-family: 'Pacifico', cursive;
 }
 
@@ -51,7 +51,9 @@ h1 {
   margin: 59.59px 0;
 }
 
-
+.carousel-caption {
+  color: #000;
+}
 
 /*************************
          ABOUT
@@ -94,7 +96,7 @@ h1 {
 }
 
 #cakeGallery {
-  display: none;
+  display:none;
   text-align:center;
 }
 
@@ -133,7 +135,7 @@ h1 {
 
 
 /*************************
-    SPACING
+    BOTTOM SPACING
 **************************/
 
 #spacing {
@@ -144,7 +146,7 @@ h1 {
 
 
 /*************************
-      BREAKPOINTS
+      MEDIA QUERIES
 **************************/
 
 @media only screen and (min-device-width:320px) and (max-device-width:501px) {
@@ -152,30 +154,6 @@ h1 {
   #gallery img {
   height:100px;
   width:100px;
-  }
-
-}
-
-@media only screen and (min-device-width:1560px) and (max-device-width:1660px) {
-
-  #gallery {
-  margin-left:150px;
-  }
-
-}
-
-@media only screen and (min-device-width:1660px) and (max-device-width:1770px) {
-
-  #gallery {
-  margin-left:200px;
-  }
-
-}
-
-@media only screen and (min-device-width:1770px) and (max-device-width:1850px) {
-
-  #gallery {
-  margin-left:250px;
   }
 
 }
